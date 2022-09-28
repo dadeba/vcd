@@ -5,7 +5,7 @@ $version
     TOOL:	xmsim(64)	21.03-s015
 $end
 $timescale
-    1000 ns
+    1 ms
 $end
 
 $scope module top $end
