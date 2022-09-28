@@ -1,11 +1,11 @@
 $date
-    Sep 28, 2022  09:15:56
+    Sep 28, 2022  09:42:19
 $end
 $version
     TOOL:	xmsim(64)	21.03-s015
 $end
 $timescale
-    1 ps
+    1 fs
 $end
 
 $scope module top $end
